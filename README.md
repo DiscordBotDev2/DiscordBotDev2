@@ -3,8 +3,7 @@
 - 👀 I’m interested in ... Discord bot development!
 - 🌱 I’m currently learning ... C++
 - 💞️ I’m looking to collaborate on ... Anything really :D
-- 📫 How to reach me ... Comment on a repostory disscussion of mine!
-
+- 📫 How to reach me ... E-mail me at pythondev2000@gmail.com
 <h2>Please use my discord bot generator<h2>
 <h3>All of my projects use: <h3>
 
